@@ -11,5 +11,6 @@ public class HelloWord {
         System.out.println("master 测试合并冲突...");
         System.out.println("github在线修改。。。。");
         System.out.println("master本地修改。。。。");
+        System.out.println("master本地修改2。。。。");
     }
 }
