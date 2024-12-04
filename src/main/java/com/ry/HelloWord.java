@@ -8,5 +8,7 @@ public class HelloWord {
         System.out.println("master 测试合并冲突...");
         System.out.println("master 测试合并冲突...");
         System.out.println("master 测试合并冲突...");
+        System.out.println("master 测试合并冲突...");
+        System.out.println("github在线修改。。。。");
     }
 }
